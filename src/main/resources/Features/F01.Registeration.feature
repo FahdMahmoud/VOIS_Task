@@ -45,7 +45,7 @@ Feature: Registration
   Scenario: user register with valid data
 
 
-    And user enter valid and not used Email which is "FM5F@gmail.com"
+    And user enter valid and not used Email which is "FM6F@gmail.com"
     And user click on create an account button
 
     When user enter valid data, first name is "Fahd" , last name is "Mahmoud", Password is "123456", Company is "VOIS" , address is "15 ss.st- Haram"
